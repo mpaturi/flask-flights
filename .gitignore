@@ -19,3 +19,5 @@ static/
 # Sensitive files
 instance/
 .flaskenv
+
+*.zip
