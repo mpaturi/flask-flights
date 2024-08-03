@@ -85,6 +85,6 @@ def analytics():
     return render_template('analytics.html', pie_chart=pie_chart, bar_chart=bar_chart, line_chart=line_chart)
 
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
     # Use the default Flask port and host
-    application.run(debug=True, host='0.0.0.0')
+    #application.run(debug=True, host='0.0.0.0')
